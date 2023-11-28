@@ -38,6 +38,7 @@ dependencies:
   dio: ^5.3.4
   riverpod: ^2.4.9
   flutter_riverpod: ^2.4.9
+  intl: ^0.18.1
 
 dev_dependencies:
   flutter_test:
